@@ -1,1 +1,1 @@
-DevOps new test pipeline
+DevOps test pipeline
